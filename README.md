@@ -35,7 +35,7 @@ If you're looking for information on:
 
 ### Main code
 
-Kaitai Struct compiler itself is copyright (C) 2015-2020 Kaitai
+Kaitai Struct compiler itself is copyright (C) 2015-2021 Kaitai
 Project.
 
 This program is free software: you can redistribute it and/or modify
@@ -55,7 +55,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 Portions of Kaitai Struct compiler are loosely based on
 [pythonparse](https://github.com/lihaoyi/fastparse/tree/master/pythonparse/shared/src/main/scala/pythonparse)
-from [FastParse](http://www.lihaoyi.com/fastparse/) and are copyright
+from [FastParse](https://com-lihaoyi.github.io/fastparse/) and are copyright
 (c) 2014 Li Haoyi (haoyi.sg@gmail.com).
 
 Permission is hereby granted, free of charge, to any person obtaining
@@ -115,7 +115,7 @@ THE POSSIBILITY OF SUCH DAMAGE.
 Kaitai Struct compiler depends on the following libraries:
 
 * [scopt](https://github.com/scopt/scopt) — MIT license
-* [fastparse](http://www.lihaoyi.com/fastparse/) — MIT license
+* [fastparse](https://com-lihaoyi.github.io/fastparse/) — MIT license
 * [snakeyaml](https://bitbucket.org/asomov/snakeyaml) — Apache 2.0 license
 
 ---
